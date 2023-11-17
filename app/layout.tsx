@@ -13,8 +13,8 @@ export const metadata: Metadata = {
   title: siteConfig.name,
   description: siteConfig.description,
   icons: {
-    icon: '/favicon.ico'
-  }
+    icon: "/favicon.ico",
+  },
 }
 
 interface RootLayoutProps {
